@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/ecrow90/COMP2156/issues"
   },
-  "homepage": "https://github.com/ecrow90/COMP2156#readme",
+  "homepage": "https://ecrow90.github.io/COMP2156",
     "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
